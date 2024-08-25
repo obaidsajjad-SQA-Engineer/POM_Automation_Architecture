@@ -1,9 +1,18 @@
 
 # **🚀 POM (Page Object Model) Architecture in Appium with Java**
 
-![POM Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQyeWQxdmp2c2U5bWZ3Nmh0MjU5Z2YyeWk4YmZzN2drMzF4OWN0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp)
-
-In the context of Appium and Java, the Page Object Model (POM) architecture is a design pattern that helps to create a clear structure for your test automation projects. The architecture is typically divided into several layers, each with specific responsibilities. Below is a general outline of the POM architecture, along with the purpose of each component.
+<table>
+  <tr>
+    <td>
+      <p>
+        In the context of Appium and Java, the Page Object Model (POM) architecture is a design pattern that helps to create a clear structure for your test automation projects. The architecture is typically divided into several layers, each with specific responsibilities. Below is a general outline of the POM architecture, along with the purpose of each component.
+      </p>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQyeWQxdmp2c2U5bWZ3Nmh0MjU5Z2YyeWk4YmZzN2drMzF4OWN0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="POM Animation" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
